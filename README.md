@@ -7,12 +7,12 @@ _Build a simple Weather app with PHP Symfony!_
 
 ## Level 0 - Launch & Understand the app 
 
-Clone https://github.com/simplonco/symfony-project and make it work on your computer:
+Clone https://github.com/simplonco/is-it-raining and make it work on your computer:
 
 ```shell
 cd symfony-project
 php bin/console server:run
-firefox "http://127.0.0.1:8000/?q=kitten"
+firefox "http://127.0.0.1:8000/?q=Paris"
 ```
 
 Try to change the value of the `q` GET parameter in the url.
