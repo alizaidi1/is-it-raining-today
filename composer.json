@@ -1,5 +1,5 @@
 {
-    "name": "yvan/symfony.project",
+    "name": "yvan/is-it-raining-today",
     "license": "proprietary",
     "type": "project",
     "autoload": {
