@@ -1,18 +1,11 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-    <img id="gif" src="{{ src }}" alt="{{ alt }}" />
+    <strong>wind speed:</strong> {{ wind_speed }}
 {% endblock %}
 
 {% block stylesheets %}
 <style>
-    body {
-        background: black;
-    }
-    #gif {
-        position: fixed;
-        width: 100%;
-        height: 100%;
-    }
+    /* TODO */
 </style>
 {% endblock %}
